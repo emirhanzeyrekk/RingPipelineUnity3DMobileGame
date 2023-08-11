@@ -2,6 +2,6 @@
 
 #**Unity 3D Mobile Game**
 
-![image](https://github.com/emirhanzeyrekk/Ring-Rush/assets/121854589/813f310a-0603-4a15-8508-2241bd420c24)
+![image](https://github.com/emirhanzeyrekk/Ring-Rush/assets/121854589/7d3ac830-d2bd-4890-a829-cdc4d19fb4cc)
 
-![image](https://github.com/emirhanzeyrekk/Ring-Rush/assets/121854589/f26db3b9-178d-4d63-98d6-e2d397ef9b8d)
+![image](https://github.com/emirhanzeyrekk/Ring-Rush/assets/121854589/ed3eeedb-2b18-43a0-978f-2f0510856547)
