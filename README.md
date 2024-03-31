@@ -1,3 +1,3 @@
 # Ring Pipeline Unity 3D Mobile Game
-![image](https://github.com/emirhanzeyrekk/Ring-Rush/assets/121854589/7d3ac830-d2bd-4890-a829-cdc4d19fb4cc)
-![image](https://github.com/emirhanzeyrekk/Ring-Rush/assets/121854589/ed3eeedb-2b18-43a0-978f-2f0510856547)
+<img width="375" alt="image" src="https://github.com/emirhanzeyrekk/RingPipelineUnity3DMobileGame/assets/121854589/f425c6d0-fcba-49f0-be9b-31ccfaeb77f5">
+<img width="375" alt="image" src="https://github.com/emirhanzeyrekk/RingPipelineUnity3DMobileGame/assets/121854589/22d7485d-63c5-4c45-aa11-779d5dcfa7a3">
